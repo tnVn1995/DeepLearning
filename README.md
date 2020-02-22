@@ -1,3 +1,3 @@
 # FacialExpression
-Facial Expression Classifier using Transfer Learning with Keras and opencv
+Facial Expression Classifier using Transfer Learning with Keras and Opencv
 
