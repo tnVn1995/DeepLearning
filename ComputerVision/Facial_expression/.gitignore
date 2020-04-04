@@ -1,0 +1,9 @@
+# Ignore folders
+.ipynb*/
+.vscode/
+ckplus/
+data/
+facial-expression/
+results/
+models/*
+!models/bn_dp_image_augmentation/bn_dp_augmentation.h5
