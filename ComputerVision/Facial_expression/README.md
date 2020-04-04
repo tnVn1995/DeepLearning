@@ -12,8 +12,8 @@ Each image is of size 48x48.
 
 1. [Anaconda](https://www.anaconda.com/distribution/#download-section)
 2. Tensorflow-gpu2 (This can be automatically [set up](https://anaconda.org/anaconda/tensorflow-gpu) 
-using Anaconda
-3. Opencv4 (Also can be [set up](https://anaconda.org/conda-forge/opencv) using anaconda
+using Anaconda)
+3. Opencv4 (Also can be [set up](https://anaconda.org/conda-forge/opencv) using anaconda)
 
 ## Usage
 
