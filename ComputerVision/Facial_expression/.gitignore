@@ -2,7 +2,7 @@
 .ipynb*/
 .vscode/
 ckplus/
-data/
+data/*
 facial-expression/
 results/
 models/*
