@@ -20,7 +20,7 @@ using Anaconda
 1. Clone the Repo to your local machine
 2. Move to the directory that contains the cloned repo
 
-*Optional: if you want to rerun the notebook*
+*Optional:* if you want to rerun the notebook:
 3. Download fer2013 data and save it to folder data
 
 4. Install the virtual environment using conda from the environment.yml file
