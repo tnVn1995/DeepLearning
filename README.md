@@ -1,3 +1,2 @@
-# FacialExpression
-Facial Expression Classifier using Transfer Learning with Keras and Opencv
+This is my repository for deep learning related projects
 
