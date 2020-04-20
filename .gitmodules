@@ -1,0 +1,9 @@
+[submodule "ComputerVision/Image_Segmentation/cityscapesScripts"]
+	path = ComputerVision/Image_Segmentation/cityscapesScripts
+	url = https://github.com/mcordts/cityscapesScripts
+[submodule "NLPPoem_generator"]
+	path = NLPPoem_generator
+	url = https://github.com/tung2921/Poem_generator
+[submodule "D:/personal_projects/DeepLearning/NLP/Poem_generator"]
+	path = D:/personal_projects/DeepLearning/NLP/Poem_generator
+	url = https://github.com/tung2921/Poem_generator
