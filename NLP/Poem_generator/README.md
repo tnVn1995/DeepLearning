@@ -5,4 +5,8 @@ The model is trained on The Sonnets written by Shakespeare to generate Shakespea
 
 ## Requirement
 
-In order to run 
+[Anaconda](https://www.anaconda.com/distribution/#download-section)
+
+## Set Up
+
+Please refer [here]()
