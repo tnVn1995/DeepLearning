@@ -8,7 +8,7 @@ This is my repository for deep learning related projects
 2. Image Denoising
 3. Image Segmentation (Incomplete)
 4. Resnet
-5. Super Resolution (Incomplete)
+5. [Super Resolution](https://github.com/tung2921/DeepLearning/tree/master/ComputerVision/Super-Resolution) (Incomplete)
 6. [Image Similarity](https://github.com/tung2921/Similarity-Search) (Incomplete)
 
 ## Natural Language Procesing (NLP)
