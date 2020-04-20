@@ -15,4 +15,4 @@ This is my repository for deep learning related projects
 
 1. Date Normalization (Incomplete)
 2. LSTM Language Translator
-3. [Poeam Generator](https://github.com/tung2921/Poem_generator)
+3. [Poem Generator](https://github.com/tung2921/Poem_generator)
