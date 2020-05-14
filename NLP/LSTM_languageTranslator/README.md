@@ -13,5 +13,5 @@ data is downloaded from [here](http://www.manythings.org/anki/)
 
 ## Set Up
 
-Please refer [here]()
+Please refer [here](https://github.com/tung2921/DeepLearning/tree/master/NLP)
 
