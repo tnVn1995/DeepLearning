@@ -1,4 +1,5 @@
 mnist/
 downloads/
-data/
+data/*
+!data
 *2.ipynb
