@@ -22,7 +22,11 @@ images using cityscape images
 
 Implementing Resnet architecture from scratch
 
-4. Super resolution
+5. Super resolution
 
 Implementing Unet encoder-decoder to enchance hand images quality
 
+6. TFDS
+  1. TF-Hub models
+  
+  Using models from TF-Hub to solve computer vision problems (classification, etc.)
