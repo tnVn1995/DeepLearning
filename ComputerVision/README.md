@@ -2,7 +2,7 @@
 
 This repo contains my projects in Computer Vision
 
-## Projecst
+## Projects
 
 1. Facial Expression Classifier
 
