@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from typing import List
 import tensorflow as tf
+
+
+
 def add_noise(img: np.array, min_noise_factor: float=.3, 
               max_noise_factor: float=.6) -> np.array:
     """Add random noise to an image using a uniform distribution
@@ -29,8 +32,8 @@ def add_noise(img: np.array, min_noise_factor: float=.3,
     return img_noisy
 
 def plot_image_grid(images: List[np.array], titles:List[str]=None, 
-                    figure: plt.figure =None,grayscale: bool = False, 
-                    transpose: bool = False) -> plt.figure:
+                    figure: plt.figure=None, grayscale: bool=False, 
+                    transpose: bool=False) -> plt.figure:
     """
     Plot a grid of n x m images
     Input
